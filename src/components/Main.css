@@ -1,0 +1,25 @@
+.Main{
+  background-color:rgba(127, 255, 212, 0.638);
+  padding: 50px;
+  margin: 50px auto ;
+  max-width: 500px;
+  box-shadow:0 0 5px black;
+}
+
+.Main h1{
+  font-weight: bold;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+  font-family: Albert Sans;
+  padding-right:20px ;
+}
+
+
+
+
+
+
+
